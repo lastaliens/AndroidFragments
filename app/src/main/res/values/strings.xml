@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android Lab 05</string>
+    <string name="imgBtn">Take an Image</string>
+    <string name="vidBtn">Take a Video</string>
+    <string name="viewname">viewName</string>
+    <string name="viewdate">viewDate</string>
+    <string name="viewtemplate">viewTemplate</string>
+</resources>
